@@ -1,0 +1,6 @@
+[submodule "backend-clients"]
+	path = backend-clients
+	url = https://github.com/era-ants/backend-clients.git
+[submodule "backend-organizations"]
+	path = backend-organizations
+	url = https://github.com/era-ants/backend-organizations.git
