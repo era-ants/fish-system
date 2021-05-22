@@ -10,3 +10,6 @@
 [submodule "payment-service"]
 	path = payment-service
 	url = https://github.com/era-ants/payment-service
+[submodule "frontend-em-2021-novocard-ants"]
+	path = frontend-em-2021-novocard-ants
+	url = https://github.com/era-ants/frontend-em-2021-novocard-ants

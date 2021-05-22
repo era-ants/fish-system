@@ -30,14 +30,14 @@
 
 
 
-СРЕДА ЗАПУСКА
+Развертка Backend
 ------------
 1) развертывание сервиса производится на linux;
 2) требуется установленный контейнеризатор Docker и пакетный менеджер Docker Compose.
 
 
-УСТАНОВКА
-------------
+###УСТАНОВКА
+
 Для сборки и запуска всех микросервисов выполните скрипт run.sh из корневой директории репозитория. Docker-compose соберёт и запустит все необходимые контейнеры.
 
 ```bash
@@ -50,6 +50,16 @@
 - backend-clients Swagger UI: http://localhost:8002/index.html
 - backend-organizations Swagger UI: http://localhost:8003/index.html
 - payment-service Swagger UI http://localhost:8004/index.html
+
+Развертка Frontend
+------------
+1) требуется npm и node.js
+
+###УСТАНОВКА
+
+Для запуска frontend-сервера необходимо запустить команду:
+
+`npm run serve`
 
 РАЗРАБОТЧИКИ
 
