@@ -25,7 +25,7 @@
  </ul>
 <h4>Демо</h4>
 <p>Демо сервиса доступно по адресу: http://hackaton.website.yandexcloud.net </p>
-<p>Реквизиты тестового пользователя: email: <b>testuser@test.ru</b>, пароль: <b>testuser</b></p>
+<p>Реквизиты тестового пользователя: email: <b>redred@mail.ru</b>, пароль: <b>12345678</b></p>
 
 
 
